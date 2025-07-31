@@ -42,7 +42,7 @@ async def traduzir_texto(dados: Texto):
     }
 
     payload = {
-        "auth_key": "69a823d9-bf52-40ac-9f81-3936d26db5c2:fx",  # Substitua pela sua chave real (COM :fx no final)
+        "auth_key": "insira_sua_chave-real",  # Substitua pela sua chave real (COM :fx no final)
         "text": dados.conteudo,
         "source_lang": dados.idioma_origem,
         "target_lang": dados.idioma_destino
