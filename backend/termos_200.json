@@ -1,0 +1,2022 @@
+[
+  {
+    "termo": "Python #1",
+    "descricao": "Linguagem de programação de alto nível, fácil de ler e escrever. Muito usada em ciência de dados, automação, backend, inteligência artificial e scripts rápidos.",
+    "exemplo": "def saudacao():\n    print('Olá, mundo!')",
+    "componentes": [
+      "Funções",
+      "Indentação",
+      "Print",
+      "Variáveis"
+    ]
+  },
+  {
+    "termo": "JavaScript #2",
+    "descricao": "Linguagem usada principalmente para tornar páginas web interativas. Muito usada no frontend e também no backend com Node.js.",
+    "exemplo": "function saudacao() {\n  console.log('Olá, mundo!');\n}",
+    "componentes": [
+      "Funções",
+      "Eventos",
+      "DOM"
+    ]
+  },
+  {
+    "termo": "HTML #3",
+    "descricao": "Linguagem de marcação usada para estruturar o conteúdo de páginas web.",
+    "exemplo": "<h1>Olá, mundo!</h1>",
+    "componentes": [
+      "Tags",
+      "Atributos",
+      "Estrutura"
+    ]
+  },
+  {
+    "termo": "CSS #4",
+    "descricao": "Linguagem de estilo usada para definir a aparência das páginas HTML.",
+    "exemplo": "h1 { color: blue; }",
+    "componentes": [
+      "Seletores",
+      "Propriedades",
+      "Responsividade"
+    ]
+  },
+  {
+    "termo": "Git #5",
+    "descricao": "Sistema de controle de versão para gerenciar mudanças no código-fonte.",
+    "exemplo": "git init\n git add .\n git commit -m \"primeiro commit\"",
+    "componentes": [
+      "Commit",
+      "Branch",
+      "Merge"
+    ]
+  },
+  {
+    "termo": "React #6",
+    "descricao": "Biblioteca JavaScript para construção de interfaces de usuário, baseada em componentes.",
+    "exemplo": "function App() {\n  return <h1>Olá React</h1>;\n}",
+    "componentes": [
+      "Componentes",
+      "JSX",
+      "Hooks"
+    ]
+  },
+  {
+    "termo": "API #7",
+    "descricao": "Interface de programação de aplicações. Permite que diferentes sistemas se comuniquem.",
+    "exemplo": "fetch('https://api.exemplo.com/dados')",
+    "componentes": [
+      "Requisições",
+      "Endpoints",
+      "JSON"
+    ]
+  },
+  {
+    "termo": "Node.js #8",
+    "descricao": "Ambiente de execução JavaScript no servidor, usado para construir aplicações backend.",
+    "exemplo": "const http = require('http');",
+    "componentes": [
+      "Módulos",
+      "Servidor",
+      "Eventos"
+    ]
+  },
+  {
+    "termo": "Banco de Dados #9",
+    "descricao": "Sistema que armazena dados de forma organizada e acessível.",
+    "exemplo": "SELECT * FROM usuarios;",
+    "componentes": [
+      "Tabelas",
+      "SQL",
+      "Consultas"
+    ]
+  },
+  {
+    "termo": "Django #10",
+    "descricao": "Framework web de alto nível para Python. Facilita a criação de aplicações completas.",
+    "exemplo": "from django.http import HttpResponse\ndef home(request):\n    return HttpResponse(\"Olá, Django!\")",
+    "componentes": [
+      "Rotas",
+      "Views",
+      "Models"
+    ]
+  },
+  {
+    "termo": "Python #11",
+    "descricao": "Linguagem de programação de alto nível, fácil de ler e escrever. Muito usada em ciência de dados, automação, backend, inteligência artificial e scripts rápidos.",
+    "exemplo": "def saudacao():\n    print('Olá, mundo!')",
+    "componentes": [
+      "Funções",
+      "Indentação",
+      "Print",
+      "Variáveis"
+    ]
+  },
+  {
+    "termo": "JavaScript #12",
+    "descricao": "Linguagem usada principalmente para tornar páginas web interativas. Muito usada no frontend e também no backend com Node.js.",
+    "exemplo": "function saudacao() {\n  console.log('Olá, mundo!');\n}",
+    "componentes": [
+      "Funções",
+      "Eventos",
+      "DOM"
+    ]
+  },
+  {
+    "termo": "HTML #13",
+    "descricao": "Linguagem de marcação usada para estruturar o conteúdo de páginas web.",
+    "exemplo": "<h1>Olá, mundo!</h1>",
+    "componentes": [
+      "Tags",
+      "Atributos",
+      "Estrutura"
+    ]
+  },
+  {
+    "termo": "CSS #14",
+    "descricao": "Linguagem de estilo usada para definir a aparência das páginas HTML.",
+    "exemplo": "h1 { color: blue; }",
+    "componentes": [
+      "Seletores",
+      "Propriedades",
+      "Responsividade"
+    ]
+  },
+  {
+    "termo": "Git #15",
+    "descricao": "Sistema de controle de versão para gerenciar mudanças no código-fonte.",
+    "exemplo": "git init\n git add .\n git commit -m \"primeiro commit\"",
+    "componentes": [
+      "Commit",
+      "Branch",
+      "Merge"
+    ]
+  },
+  {
+    "termo": "React #16",
+    "descricao": "Biblioteca JavaScript para construção de interfaces de usuário, baseada em componentes.",
+    "exemplo": "function App() {\n  return <h1>Olá React</h1>;\n}",
+    "componentes": [
+      "Componentes",
+      "JSX",
+      "Hooks"
+    ]
+  },
+  {
+    "termo": "API #17",
+    "descricao": "Interface de programação de aplicações. Permite que diferentes sistemas se comuniquem.",
+    "exemplo": "fetch('https://api.exemplo.com/dados')",
+    "componentes": [
+      "Requisições",
+      "Endpoints",
+      "JSON"
+    ]
+  },
+  {
+    "termo": "Node.js #18",
+    "descricao": "Ambiente de execução JavaScript no servidor, usado para construir aplicações backend.",
+    "exemplo": "const http = require('http');",
+    "componentes": [
+      "Módulos",
+      "Servidor",
+      "Eventos"
+    ]
+  },
+  {
+    "termo": "Banco de Dados #19",
+    "descricao": "Sistema que armazena dados de forma organizada e acessível.",
+    "exemplo": "SELECT * FROM usuarios;",
+    "componentes": [
+      "Tabelas",
+      "SQL",
+      "Consultas"
+    ]
+  },
+  {
+    "termo": "Django #20",
+    "descricao": "Framework web de alto nível para Python. Facilita a criação de aplicações completas.",
+    "exemplo": "from django.http import HttpResponse\ndef home(request):\n    return HttpResponse(\"Olá, Django!\")",
+    "componentes": [
+      "Rotas",
+      "Views",
+      "Models"
+    ]
+  },
+  {
+    "termo": "Python #21",
+    "descricao": "Linguagem de programação de alto nível, fácil de ler e escrever. Muito usada em ciência de dados, automação, backend, inteligência artificial e scripts rápidos.",
+    "exemplo": "def saudacao():\n    print('Olá, mundo!')",
+    "componentes": [
+      "Funções",
+      "Indentação",
+      "Print",
+      "Variáveis"
+    ]
+  },
+  {
+    "termo": "JavaScript #22",
+    "descricao": "Linguagem usada principalmente para tornar páginas web interativas. Muito usada no frontend e também no backend com Node.js.",
+    "exemplo": "function saudacao() {\n  console.log('Olá, mundo!');\n}",
+    "componentes": [
+      "Funções",
+      "Eventos",
+      "DOM"
+    ]
+  },
+  {
+    "termo": "HTML #23",
+    "descricao": "Linguagem de marcação usada para estruturar o conteúdo de páginas web.",
+    "exemplo": "<h1>Olá, mundo!</h1>",
+    "componentes": [
+      "Tags",
+      "Atributos",
+      "Estrutura"
+    ]
+  },
+  {
+    "termo": "CSS #24",
+    "descricao": "Linguagem de estilo usada para definir a aparência das páginas HTML.",
+    "exemplo": "h1 { color: blue; }",
+    "componentes": [
+      "Seletores",
+      "Propriedades",
+      "Responsividade"
+    ]
+  },
+  {
+    "termo": "Git #25",
+    "descricao": "Sistema de controle de versão para gerenciar mudanças no código-fonte.",
+    "exemplo": "git init\n git add .\n git commit -m \"primeiro commit\"",
+    "componentes": [
+      "Commit",
+      "Branch",
+      "Merge"
+    ]
+  },
+  {
+    "termo": "React #26",
+    "descricao": "Biblioteca JavaScript para construção de interfaces de usuário, baseada em componentes.",
+    "exemplo": "function App() {\n  return <h1>Olá React</h1>;\n}",
+    "componentes": [
+      "Componentes",
+      "JSX",
+      "Hooks"
+    ]
+  },
+  {
+    "termo": "API #27",
+    "descricao": "Interface de programação de aplicações. Permite que diferentes sistemas se comuniquem.",
+    "exemplo": "fetch('https://api.exemplo.com/dados')",
+    "componentes": [
+      "Requisições",
+      "Endpoints",
+      "JSON"
+    ]
+  },
+  {
+    "termo": "Node.js #28",
+    "descricao": "Ambiente de execução JavaScript no servidor, usado para construir aplicações backend.",
+    "exemplo": "const http = require('http');",
+    "componentes": [
+      "Módulos",
+      "Servidor",
+      "Eventos"
+    ]
+  },
+  {
+    "termo": "Banco de Dados #29",
+    "descricao": "Sistema que armazena dados de forma organizada e acessível.",
+    "exemplo": "SELECT * FROM usuarios;",
+    "componentes": [
+      "Tabelas",
+      "SQL",
+      "Consultas"
+    ]
+  },
+  {
+    "termo": "Django #30",
+    "descricao": "Framework web de alto nível para Python. Facilita a criação de aplicações completas.",
+    "exemplo": "from django.http import HttpResponse\ndef home(request):\n    return HttpResponse(\"Olá, Django!\")",
+    "componentes": [
+      "Rotas",
+      "Views",
+      "Models"
+    ]
+  },
+  {
+    "termo": "Python #31",
+    "descricao": "Linguagem de programação de alto nível, fácil de ler e escrever. Muito usada em ciência de dados, automação, backend, inteligência artificial e scripts rápidos.",
+    "exemplo": "def saudacao():\n    print('Olá, mundo!')",
+    "componentes": [
+      "Funções",
+      "Indentação",
+      "Print",
+      "Variáveis"
+    ]
+  },
+  {
+    "termo": "JavaScript #32",
+    "descricao": "Linguagem usada principalmente para tornar páginas web interativas. Muito usada no frontend e também no backend com Node.js.",
+    "exemplo": "function saudacao() {\n  console.log('Olá, mundo!');\n}",
+    "componentes": [
+      "Funções",
+      "Eventos",
+      "DOM"
+    ]
+  },
+  {
+    "termo": "HTML #33",
+    "descricao": "Linguagem de marcação usada para estruturar o conteúdo de páginas web.",
+    "exemplo": "<h1>Olá, mundo!</h1>",
+    "componentes": [
+      "Tags",
+      "Atributos",
+      "Estrutura"
+    ]
+  },
+  {
+    "termo": "CSS #34",
+    "descricao": "Linguagem de estilo usada para definir a aparência das páginas HTML.",
+    "exemplo": "h1 { color: blue; }",
+    "componentes": [
+      "Seletores",
+      "Propriedades",
+      "Responsividade"
+    ]
+  },
+  {
+    "termo": "Git #35",
+    "descricao": "Sistema de controle de versão para gerenciar mudanças no código-fonte.",
+    "exemplo": "git init\n git add .\n git commit -m \"primeiro commit\"",
+    "componentes": [
+      "Commit",
+      "Branch",
+      "Merge"
+    ]
+  },
+  {
+    "termo": "React #36",
+    "descricao": "Biblioteca JavaScript para construção de interfaces de usuário, baseada em componentes.",
+    "exemplo": "function App() {\n  return <h1>Olá React</h1>;\n}",
+    "componentes": [
+      "Componentes",
+      "JSX",
+      "Hooks"
+    ]
+  },
+  {
+    "termo": "API #37",
+    "descricao": "Interface de programação de aplicações. Permite que diferentes sistemas se comuniquem.",
+    "exemplo": "fetch('https://api.exemplo.com/dados')",
+    "componentes": [
+      "Requisições",
+      "Endpoints",
+      "JSON"
+    ]
+  },
+  {
+    "termo": "Node.js #38",
+    "descricao": "Ambiente de execução JavaScript no servidor, usado para construir aplicações backend.",
+    "exemplo": "const http = require('http');",
+    "componentes": [
+      "Módulos",
+      "Servidor",
+      "Eventos"
+    ]
+  },
+  {
+    "termo": "Banco de Dados #39",
+    "descricao": "Sistema que armazena dados de forma organizada e acessível.",
+    "exemplo": "SELECT * FROM usuarios;",
+    "componentes": [
+      "Tabelas",
+      "SQL",
+      "Consultas"
+    ]
+  },
+  {
+    "termo": "Django #40",
+    "descricao": "Framework web de alto nível para Python. Facilita a criação de aplicações completas.",
+    "exemplo": "from django.http import HttpResponse\ndef home(request):\n    return HttpResponse(\"Olá, Django!\")",
+    "componentes": [
+      "Rotas",
+      "Views",
+      "Models"
+    ]
+  },
+  {
+    "termo": "Python #41",
+    "descricao": "Linguagem de programação de alto nível, fácil de ler e escrever. Muito usada em ciência de dados, automação, backend, inteligência artificial e scripts rápidos.",
+    "exemplo": "def saudacao():\n    print('Olá, mundo!')",
+    "componentes": [
+      "Funções",
+      "Indentação",
+      "Print",
+      "Variáveis"
+    ]
+  },
+  {
+    "termo": "JavaScript #42",
+    "descricao": "Linguagem usada principalmente para tornar páginas web interativas. Muito usada no frontend e também no backend com Node.js.",
+    "exemplo": "function saudacao() {\n  console.log('Olá, mundo!');\n}",
+    "componentes": [
+      "Funções",
+      "Eventos",
+      "DOM"
+    ]
+  },
+  {
+    "termo": "HTML #43",
+    "descricao": "Linguagem de marcação usada para estruturar o conteúdo de páginas web.",
+    "exemplo": "<h1>Olá, mundo!</h1>",
+    "componentes": [
+      "Tags",
+      "Atributos",
+      "Estrutura"
+    ]
+  },
+  {
+    "termo": "CSS #44",
+    "descricao": "Linguagem de estilo usada para definir a aparência das páginas HTML.",
+    "exemplo": "h1 { color: blue; }",
+    "componentes": [
+      "Seletores",
+      "Propriedades",
+      "Responsividade"
+    ]
+  },
+  {
+    "termo": "Git #45",
+    "descricao": "Sistema de controle de versão para gerenciar mudanças no código-fonte.",
+    "exemplo": "git init\n git add .\n git commit -m \"primeiro commit\"",
+    "componentes": [
+      "Commit",
+      "Branch",
+      "Merge"
+    ]
+  },
+  {
+    "termo": "React #46",
+    "descricao": "Biblioteca JavaScript para construção de interfaces de usuário, baseada em componentes.",
+    "exemplo": "function App() {\n  return <h1>Olá React</h1>;\n}",
+    "componentes": [
+      "Componentes",
+      "JSX",
+      "Hooks"
+    ]
+  },
+  {
+    "termo": "API #47",
+    "descricao": "Interface de programação de aplicações. Permite que diferentes sistemas se comuniquem.",
+    "exemplo": "fetch('https://api.exemplo.com/dados')",
+    "componentes": [
+      "Requisições",
+      "Endpoints",
+      "JSON"
+    ]
+  },
+  {
+    "termo": "Node.js #48",
+    "descricao": "Ambiente de execução JavaScript no servidor, usado para construir aplicações backend.",
+    "exemplo": "const http = require('http');",
+    "componentes": [
+      "Módulos",
+      "Servidor",
+      "Eventos"
+    ]
+  },
+  {
+    "termo": "Banco de Dados #49",
+    "descricao": "Sistema que armazena dados de forma organizada e acessível.",
+    "exemplo": "SELECT * FROM usuarios;",
+    "componentes": [
+      "Tabelas",
+      "SQL",
+      "Consultas"
+    ]
+  },
+  {
+    "termo": "Django #50",
+    "descricao": "Framework web de alto nível para Python. Facilita a criação de aplicações completas.",
+    "exemplo": "from django.http import HttpResponse\ndef home(request):\n    return HttpResponse(\"Olá, Django!\")",
+    "componentes": [
+      "Rotas",
+      "Views",
+      "Models"
+    ]
+  },
+  {
+    "termo": "Python #51",
+    "descricao": "Linguagem de programação de alto nível, fácil de ler e escrever. Muito usada em ciência de dados, automação, backend, inteligência artificial e scripts rápidos.",
+    "exemplo": "def saudacao():\n    print('Olá, mundo!')",
+    "componentes": [
+      "Funções",
+      "Indentação",
+      "Print",
+      "Variáveis"
+    ]
+  },
+  {
+    "termo": "JavaScript #52",
+    "descricao": "Linguagem usada principalmente para tornar páginas web interativas. Muito usada no frontend e também no backend com Node.js.",
+    "exemplo": "function saudacao() {\n  console.log('Olá, mundo!');\n}",
+    "componentes": [
+      "Funções",
+      "Eventos",
+      "DOM"
+    ]
+  },
+  {
+    "termo": "HTML #53",
+    "descricao": "Linguagem de marcação usada para estruturar o conteúdo de páginas web.",
+    "exemplo": "<h1>Olá, mundo!</h1>",
+    "componentes": [
+      "Tags",
+      "Atributos",
+      "Estrutura"
+    ]
+  },
+  {
+    "termo": "CSS #54",
+    "descricao": "Linguagem de estilo usada para definir a aparência das páginas HTML.",
+    "exemplo": "h1 { color: blue; }",
+    "componentes": [
+      "Seletores",
+      "Propriedades",
+      "Responsividade"
+    ]
+  },
+  {
+    "termo": "Git #55",
+    "descricao": "Sistema de controle de versão para gerenciar mudanças no código-fonte.",
+    "exemplo": "git init\n git add .\n git commit -m \"primeiro commit\"",
+    "componentes": [
+      "Commit",
+      "Branch",
+      "Merge"
+    ]
+  },
+  {
+    "termo": "React #56",
+    "descricao": "Biblioteca JavaScript para construção de interfaces de usuário, baseada em componentes.",
+    "exemplo": "function App() {\n  return <h1>Olá React</h1>;\n}",
+    "componentes": [
+      "Componentes",
+      "JSX",
+      "Hooks"
+    ]
+  },
+  {
+    "termo": "API #57",
+    "descricao": "Interface de programação de aplicações. Permite que diferentes sistemas se comuniquem.",
+    "exemplo": "fetch('https://api.exemplo.com/dados')",
+    "componentes": [
+      "Requisições",
+      "Endpoints",
+      "JSON"
+    ]
+  },
+  {
+    "termo": "Node.js #58",
+    "descricao": "Ambiente de execução JavaScript no servidor, usado para construir aplicações backend.",
+    "exemplo": "const http = require('http');",
+    "componentes": [
+      "Módulos",
+      "Servidor",
+      "Eventos"
+    ]
+  },
+  {
+    "termo": "Banco de Dados #59",
+    "descricao": "Sistema que armazena dados de forma organizada e acessível.",
+    "exemplo": "SELECT * FROM usuarios;",
+    "componentes": [
+      "Tabelas",
+      "SQL",
+      "Consultas"
+    ]
+  },
+  {
+    "termo": "Django #60",
+    "descricao": "Framework web de alto nível para Python. Facilita a criação de aplicações completas.",
+    "exemplo": "from django.http import HttpResponse\ndef home(request):\n    return HttpResponse(\"Olá, Django!\")",
+    "componentes": [
+      "Rotas",
+      "Views",
+      "Models"
+    ]
+  },
+  {
+    "termo": "Python #61",
+    "descricao": "Linguagem de programação de alto nível, fácil de ler e escrever. Muito usada em ciência de dados, automação, backend, inteligência artificial e scripts rápidos.",
+    "exemplo": "def saudacao():\n    print('Olá, mundo!')",
+    "componentes": [
+      "Funções",
+      "Indentação",
+      "Print",
+      "Variáveis"
+    ]
+  },
+  {
+    "termo": "JavaScript #62",
+    "descricao": "Linguagem usada principalmente para tornar páginas web interativas. Muito usada no frontend e também no backend com Node.js.",
+    "exemplo": "function saudacao() {\n  console.log('Olá, mundo!');\n}",
+    "componentes": [
+      "Funções",
+      "Eventos",
+      "DOM"
+    ]
+  },
+  {
+    "termo": "HTML #63",
+    "descricao": "Linguagem de marcação usada para estruturar o conteúdo de páginas web.",
+    "exemplo": "<h1>Olá, mundo!</h1>",
+    "componentes": [
+      "Tags",
+      "Atributos",
+      "Estrutura"
+    ]
+  },
+  {
+    "termo": "CSS #64",
+    "descricao": "Linguagem de estilo usada para definir a aparência das páginas HTML.",
+    "exemplo": "h1 { color: blue; }",
+    "componentes": [
+      "Seletores",
+      "Propriedades",
+      "Responsividade"
+    ]
+  },
+  {
+    "termo": "Git #65",
+    "descricao": "Sistema de controle de versão para gerenciar mudanças no código-fonte.",
+    "exemplo": "git init\n git add .\n git commit -m \"primeiro commit\"",
+    "componentes": [
+      "Commit",
+      "Branch",
+      "Merge"
+    ]
+  },
+  {
+    "termo": "React #66",
+    "descricao": "Biblioteca JavaScript para construção de interfaces de usuário, baseada em componentes.",
+    "exemplo": "function App() {\n  return <h1>Olá React</h1>;\n}",
+    "componentes": [
+      "Componentes",
+      "JSX",
+      "Hooks"
+    ]
+  },
+  {
+    "termo": "API #67",
+    "descricao": "Interface de programação de aplicações. Permite que diferentes sistemas se comuniquem.",
+    "exemplo": "fetch('https://api.exemplo.com/dados')",
+    "componentes": [
+      "Requisições",
+      "Endpoints",
+      "JSON"
+    ]
+  },
+  {
+    "termo": "Node.js #68",
+    "descricao": "Ambiente de execução JavaScript no servidor, usado para construir aplicações backend.",
+    "exemplo": "const http = require('http');",
+    "componentes": [
+      "Módulos",
+      "Servidor",
+      "Eventos"
+    ]
+  },
+  {
+    "termo": "Banco de Dados #69",
+    "descricao": "Sistema que armazena dados de forma organizada e acessível.",
+    "exemplo": "SELECT * FROM usuarios;",
+    "componentes": [
+      "Tabelas",
+      "SQL",
+      "Consultas"
+    ]
+  },
+  {
+    "termo": "Django #70",
+    "descricao": "Framework web de alto nível para Python. Facilita a criação de aplicações completas.",
+    "exemplo": "from django.http import HttpResponse\ndef home(request):\n    return HttpResponse(\"Olá, Django!\")",
+    "componentes": [
+      "Rotas",
+      "Views",
+      "Models"
+    ]
+  },
+  {
+    "termo": "Python #71",
+    "descricao": "Linguagem de programação de alto nível, fácil de ler e escrever. Muito usada em ciência de dados, automação, backend, inteligência artificial e scripts rápidos.",
+    "exemplo": "def saudacao():\n    print('Olá, mundo!')",
+    "componentes": [
+      "Funções",
+      "Indentação",
+      "Print",
+      "Variáveis"
+    ]
+  },
+  {
+    "termo": "JavaScript #72",
+    "descricao": "Linguagem usada principalmente para tornar páginas web interativas. Muito usada no frontend e também no backend com Node.js.",
+    "exemplo": "function saudacao() {\n  console.log('Olá, mundo!');\n}",
+    "componentes": [
+      "Funções",
+      "Eventos",
+      "DOM"
+    ]
+  },
+  {
+    "termo": "HTML #73",
+    "descricao": "Linguagem de marcação usada para estruturar o conteúdo de páginas web.",
+    "exemplo": "<h1>Olá, mundo!</h1>",
+    "componentes": [
+      "Tags",
+      "Atributos",
+      "Estrutura"
+    ]
+  },
+  {
+    "termo": "CSS #74",
+    "descricao": "Linguagem de estilo usada para definir a aparência das páginas HTML.",
+    "exemplo": "h1 { color: blue; }",
+    "componentes": [
+      "Seletores",
+      "Propriedades",
+      "Responsividade"
+    ]
+  },
+  {
+    "termo": "Git #75",
+    "descricao": "Sistema de controle de versão para gerenciar mudanças no código-fonte.",
+    "exemplo": "git init\n git add .\n git commit -m \"primeiro commit\"",
+    "componentes": [
+      "Commit",
+      "Branch",
+      "Merge"
+    ]
+  },
+  {
+    "termo": "React #76",
+    "descricao": "Biblioteca JavaScript para construção de interfaces de usuário, baseada em componentes.",
+    "exemplo": "function App() {\n  return <h1>Olá React</h1>;\n}",
+    "componentes": [
+      "Componentes",
+      "JSX",
+      "Hooks"
+    ]
+  },
+  {
+    "termo": "API #77",
+    "descricao": "Interface de programação de aplicações. Permite que diferentes sistemas se comuniquem.",
+    "exemplo": "fetch('https://api.exemplo.com/dados')",
+    "componentes": [
+      "Requisições",
+      "Endpoints",
+      "JSON"
+    ]
+  },
+  {
+    "termo": "Node.js #78",
+    "descricao": "Ambiente de execução JavaScript no servidor, usado para construir aplicações backend.",
+    "exemplo": "const http = require('http');",
+    "componentes": [
+      "Módulos",
+      "Servidor",
+      "Eventos"
+    ]
+  },
+  {
+    "termo": "Banco de Dados #79",
+    "descricao": "Sistema que armazena dados de forma organizada e acessível.",
+    "exemplo": "SELECT * FROM usuarios;",
+    "componentes": [
+      "Tabelas",
+      "SQL",
+      "Consultas"
+    ]
+  },
+  {
+    "termo": "Django #80",
+    "descricao": "Framework web de alto nível para Python. Facilita a criação de aplicações completas.",
+    "exemplo": "from django.http import HttpResponse\ndef home(request):\n    return HttpResponse(\"Olá, Django!\")",
+    "componentes": [
+      "Rotas",
+      "Views",
+      "Models"
+    ]
+  },
+  {
+    "termo": "Python #81",
+    "descricao": "Linguagem de programação de alto nível, fácil de ler e escrever. Muito usada em ciência de dados, automação, backend, inteligência artificial e scripts rápidos.",
+    "exemplo": "def saudacao():\n    print('Olá, mundo!')",
+    "componentes": [
+      "Funções",
+      "Indentação",
+      "Print",
+      "Variáveis"
+    ]
+  },
+  {
+    "termo": "JavaScript #82",
+    "descricao": "Linguagem usada principalmente para tornar páginas web interativas. Muito usada no frontend e também no backend com Node.js.",
+    "exemplo": "function saudacao() {\n  console.log('Olá, mundo!');\n}",
+    "componentes": [
+      "Funções",
+      "Eventos",
+      "DOM"
+    ]
+  },
+  {
+    "termo": "HTML #83",
+    "descricao": "Linguagem de marcação usada para estruturar o conteúdo de páginas web.",
+    "exemplo": "<h1>Olá, mundo!</h1>",
+    "componentes": [
+      "Tags",
+      "Atributos",
+      "Estrutura"
+    ]
+  },
+  {
+    "termo": "CSS #84",
+    "descricao": "Linguagem de estilo usada para definir a aparência das páginas HTML.",
+    "exemplo": "h1 { color: blue; }",
+    "componentes": [
+      "Seletores",
+      "Propriedades",
+      "Responsividade"
+    ]
+  },
+  {
+    "termo": "Git #85",
+    "descricao": "Sistema de controle de versão para gerenciar mudanças no código-fonte.",
+    "exemplo": "git init\n git add .\n git commit -m \"primeiro commit\"",
+    "componentes": [
+      "Commit",
+      "Branch",
+      "Merge"
+    ]
+  },
+  {
+    "termo": "React #86",
+    "descricao": "Biblioteca JavaScript para construção de interfaces de usuário, baseada em componentes.",
+    "exemplo": "function App() {\n  return <h1>Olá React</h1>;\n}",
+    "componentes": [
+      "Componentes",
+      "JSX",
+      "Hooks"
+    ]
+  },
+  {
+    "termo": "API #87",
+    "descricao": "Interface de programação de aplicações. Permite que diferentes sistemas se comuniquem.",
+    "exemplo": "fetch('https://api.exemplo.com/dados')",
+    "componentes": [
+      "Requisições",
+      "Endpoints",
+      "JSON"
+    ]
+  },
+  {
+    "termo": "Node.js #88",
+    "descricao": "Ambiente de execução JavaScript no servidor, usado para construir aplicações backend.",
+    "exemplo": "const http = require('http');",
+    "componentes": [
+      "Módulos",
+      "Servidor",
+      "Eventos"
+    ]
+  },
+  {
+    "termo": "Banco de Dados #89",
+    "descricao": "Sistema que armazena dados de forma organizada e acessível.",
+    "exemplo": "SELECT * FROM usuarios;",
+    "componentes": [
+      "Tabelas",
+      "SQL",
+      "Consultas"
+    ]
+  },
+  {
+    "termo": "Django #90",
+    "descricao": "Framework web de alto nível para Python. Facilita a criação de aplicações completas.",
+    "exemplo": "from django.http import HttpResponse\ndef home(request):\n    return HttpResponse(\"Olá, Django!\")",
+    "componentes": [
+      "Rotas",
+      "Views",
+      "Models"
+    ]
+  },
+  {
+    "termo": "Python #91",
+    "descricao": "Linguagem de programação de alto nível, fácil de ler e escrever. Muito usada em ciência de dados, automação, backend, inteligência artificial e scripts rápidos.",
+    "exemplo": "def saudacao():\n    print('Olá, mundo!')",
+    "componentes": [
+      "Funções",
+      "Indentação",
+      "Print",
+      "Variáveis"
+    ]
+  },
+  {
+    "termo": "JavaScript #92",
+    "descricao": "Linguagem usada principalmente para tornar páginas web interativas. Muito usada no frontend e também no backend com Node.js.",
+    "exemplo": "function saudacao() {\n  console.log('Olá, mundo!');\n}",
+    "componentes": [
+      "Funções",
+      "Eventos",
+      "DOM"
+    ]
+  },
+  {
+    "termo": "HTML #93",
+    "descricao": "Linguagem de marcação usada para estruturar o conteúdo de páginas web.",
+    "exemplo": "<h1>Olá, mundo!</h1>",
+    "componentes": [
+      "Tags",
+      "Atributos",
+      "Estrutura"
+    ]
+  },
+  {
+    "termo": "CSS #94",
+    "descricao": "Linguagem de estilo usada para definir a aparência das páginas HTML.",
+    "exemplo": "h1 { color: blue; }",
+    "componentes": [
+      "Seletores",
+      "Propriedades",
+      "Responsividade"
+    ]
+  },
+  {
+    "termo": "Git #95",
+    "descricao": "Sistema de controle de versão para gerenciar mudanças no código-fonte.",
+    "exemplo": "git init\n git add .\n git commit -m \"primeiro commit\"",
+    "componentes": [
+      "Commit",
+      "Branch",
+      "Merge"
+    ]
+  },
+  {
+    "termo": "React #96",
+    "descricao": "Biblioteca JavaScript para construção de interfaces de usuário, baseada em componentes.",
+    "exemplo": "function App() {\n  return <h1>Olá React</h1>;\n}",
+    "componentes": [
+      "Componentes",
+      "JSX",
+      "Hooks"
+    ]
+  },
+  {
+    "termo": "API #97",
+    "descricao": "Interface de programação de aplicações. Permite que diferentes sistemas se comuniquem.",
+    "exemplo": "fetch('https://api.exemplo.com/dados')",
+    "componentes": [
+      "Requisições",
+      "Endpoints",
+      "JSON"
+    ]
+  },
+  {
+    "termo": "Node.js #98",
+    "descricao": "Ambiente de execução JavaScript no servidor, usado para construir aplicações backend.",
+    "exemplo": "const http = require('http');",
+    "componentes": [
+      "Módulos",
+      "Servidor",
+      "Eventos"
+    ]
+  },
+  {
+    "termo": "Banco de Dados #99",
+    "descricao": "Sistema que armazena dados de forma organizada e acessível.",
+    "exemplo": "SELECT * FROM usuarios;",
+    "componentes": [
+      "Tabelas",
+      "SQL",
+      "Consultas"
+    ]
+  },
+  {
+    "termo": "Django #100",
+    "descricao": "Framework web de alto nível para Python. Facilita a criação de aplicações completas.",
+    "exemplo": "from django.http import HttpResponse\ndef home(request):\n    return HttpResponse(\"Olá, Django!\")",
+    "componentes": [
+      "Rotas",
+      "Views",
+      "Models"
+    ]
+  },
+  {
+    "termo": "Python #101",
+    "descricao": "Linguagem de programação de alto nível, fácil de ler e escrever. Muito usada em ciência de dados, automação, backend, inteligência artificial e scripts rápidos.",
+    "exemplo": "def saudacao():\n    print('Olá, mundo!')",
+    "componentes": [
+      "Funções",
+      "Indentação",
+      "Print",
+      "Variáveis"
+    ]
+  },
+  {
+    "termo": "JavaScript #102",
+    "descricao": "Linguagem usada principalmente para tornar páginas web interativas. Muito usada no frontend e também no backend com Node.js.",
+    "exemplo": "function saudacao() {\n  console.log('Olá, mundo!');\n}",
+    "componentes": [
+      "Funções",
+      "Eventos",
+      "DOM"
+    ]
+  },
+  {
+    "termo": "HTML #103",
+    "descricao": "Linguagem de marcação usada para estruturar o conteúdo de páginas web.",
+    "exemplo": "<h1>Olá, mundo!</h1>",
+    "componentes": [
+      "Tags",
+      "Atributos",
+      "Estrutura"
+    ]
+  },
+  {
+    "termo": "CSS #104",
+    "descricao": "Linguagem de estilo usada para definir a aparência das páginas HTML.",
+    "exemplo": "h1 { color: blue; }",
+    "componentes": [
+      "Seletores",
+      "Propriedades",
+      "Responsividade"
+    ]
+  },
+  {
+    "termo": "Git #105",
+    "descricao": "Sistema de controle de versão para gerenciar mudanças no código-fonte.",
+    "exemplo": "git init\n git add .\n git commit -m \"primeiro commit\"",
+    "componentes": [
+      "Commit",
+      "Branch",
+      "Merge"
+    ]
+  },
+  {
+    "termo": "React #106",
+    "descricao": "Biblioteca JavaScript para construção de interfaces de usuário, baseada em componentes.",
+    "exemplo": "function App() {\n  return <h1>Olá React</h1>;\n}",
+    "componentes": [
+      "Componentes",
+      "JSX",
+      "Hooks"
+    ]
+  },
+  {
+    "termo": "API #107",
+    "descricao": "Interface de programação de aplicações. Permite que diferentes sistemas se comuniquem.",
+    "exemplo": "fetch('https://api.exemplo.com/dados')",
+    "componentes": [
+      "Requisições",
+      "Endpoints",
+      "JSON"
+    ]
+  },
+  {
+    "termo": "Node.js #108",
+    "descricao": "Ambiente de execução JavaScript no servidor, usado para construir aplicações backend.",
+    "exemplo": "const http = require('http');",
+    "componentes": [
+      "Módulos",
+      "Servidor",
+      "Eventos"
+    ]
+  },
+  {
+    "termo": "Banco de Dados #109",
+    "descricao": "Sistema que armazena dados de forma organizada e acessível.",
+    "exemplo": "SELECT * FROM usuarios;",
+    "componentes": [
+      "Tabelas",
+      "SQL",
+      "Consultas"
+    ]
+  },
+  {
+    "termo": "Django #110",
+    "descricao": "Framework web de alto nível para Python. Facilita a criação de aplicações completas.",
+    "exemplo": "from django.http import HttpResponse\ndef home(request):\n    return HttpResponse(\"Olá, Django!\")",
+    "componentes": [
+      "Rotas",
+      "Views",
+      "Models"
+    ]
+  },
+  {
+    "termo": "Python #111",
+    "descricao": "Linguagem de programação de alto nível, fácil de ler e escrever. Muito usada em ciência de dados, automação, backend, inteligência artificial e scripts rápidos.",
+    "exemplo": "def saudacao():\n    print('Olá, mundo!')",
+    "componentes": [
+      "Funções",
+      "Indentação",
+      "Print",
+      "Variáveis"
+    ]
+  },
+  {
+    "termo": "JavaScript #112",
+    "descricao": "Linguagem usada principalmente para tornar páginas web interativas. Muito usada no frontend e também no backend com Node.js.",
+    "exemplo": "function saudacao() {\n  console.log('Olá, mundo!');\n}",
+    "componentes": [
+      "Funções",
+      "Eventos",
+      "DOM"
+    ]
+  },
+  {
+    "termo": "HTML #113",
+    "descricao": "Linguagem de marcação usada para estruturar o conteúdo de páginas web.",
+    "exemplo": "<h1>Olá, mundo!</h1>",
+    "componentes": [
+      "Tags",
+      "Atributos",
+      "Estrutura"
+    ]
+  },
+  {
+    "termo": "CSS #114",
+    "descricao": "Linguagem de estilo usada para definir a aparência das páginas HTML.",
+    "exemplo": "h1 { color: blue; }",
+    "componentes": [
+      "Seletores",
+      "Propriedades",
+      "Responsividade"
+    ]
+  },
+  {
+    "termo": "Git #115",
+    "descricao": "Sistema de controle de versão para gerenciar mudanças no código-fonte.",
+    "exemplo": "git init\n git add .\n git commit -m \"primeiro commit\"",
+    "componentes": [
+      "Commit",
+      "Branch",
+      "Merge"
+    ]
+  },
+  {
+    "termo": "React #116",
+    "descricao": "Biblioteca JavaScript para construção de interfaces de usuário, baseada em componentes.",
+    "exemplo": "function App() {\n  return <h1>Olá React</h1>;\n}",
+    "componentes": [
+      "Componentes",
+      "JSX",
+      "Hooks"
+    ]
+  },
+  {
+    "termo": "API #117",
+    "descricao": "Interface de programação de aplicações. Permite que diferentes sistemas se comuniquem.",
+    "exemplo": "fetch('https://api.exemplo.com/dados')",
+    "componentes": [
+      "Requisições",
+      "Endpoints",
+      "JSON"
+    ]
+  },
+  {
+    "termo": "Node.js #118",
+    "descricao": "Ambiente de execução JavaScript no servidor, usado para construir aplicações backend.",
+    "exemplo": "const http = require('http');",
+    "componentes": [
+      "Módulos",
+      "Servidor",
+      "Eventos"
+    ]
+  },
+  {
+    "termo": "Banco de Dados #119",
+    "descricao": "Sistema que armazena dados de forma organizada e acessível.",
+    "exemplo": "SELECT * FROM usuarios;",
+    "componentes": [
+      "Tabelas",
+      "SQL",
+      "Consultas"
+    ]
+  },
+  {
+    "termo": "Django #120",
+    "descricao": "Framework web de alto nível para Python. Facilita a criação de aplicações completas.",
+    "exemplo": "from django.http import HttpResponse\ndef home(request):\n    return HttpResponse(\"Olá, Django!\")",
+    "componentes": [
+      "Rotas",
+      "Views",
+      "Models"
+    ]
+  },
+  {
+    "termo": "Python #121",
+    "descricao": "Linguagem de programação de alto nível, fácil de ler e escrever. Muito usada em ciência de dados, automação, backend, inteligência artificial e scripts rápidos.",
+    "exemplo": "def saudacao():\n    print('Olá, mundo!')",
+    "componentes": [
+      "Funções",
+      "Indentação",
+      "Print",
+      "Variáveis"
+    ]
+  },
+  {
+    "termo": "JavaScript #122",
+    "descricao": "Linguagem usada principalmente para tornar páginas web interativas. Muito usada no frontend e também no backend com Node.js.",
+    "exemplo": "function saudacao() {\n  console.log('Olá, mundo!');\n}",
+    "componentes": [
+      "Funções",
+      "Eventos",
+      "DOM"
+    ]
+  },
+  {
+    "termo": "HTML #123",
+    "descricao": "Linguagem de marcação usada para estruturar o conteúdo de páginas web.",
+    "exemplo": "<h1>Olá, mundo!</h1>",
+    "componentes": [
+      "Tags",
+      "Atributos",
+      "Estrutura"
+    ]
+  },
+  {
+    "termo": "CSS #124",
+    "descricao": "Linguagem de estilo usada para definir a aparência das páginas HTML.",
+    "exemplo": "h1 { color: blue; }",
+    "componentes": [
+      "Seletores",
+      "Propriedades",
+      "Responsividade"
+    ]
+  },
+  {
+    "termo": "Git #125",
+    "descricao": "Sistema de controle de versão para gerenciar mudanças no código-fonte.",
+    "exemplo": "git init\n git add .\n git commit -m \"primeiro commit\"",
+    "componentes": [
+      "Commit",
+      "Branch",
+      "Merge"
+    ]
+  },
+  {
+    "termo": "React #126",
+    "descricao": "Biblioteca JavaScript para construção de interfaces de usuário, baseada em componentes.",
+    "exemplo": "function App() {\n  return <h1>Olá React</h1>;\n}",
+    "componentes": [
+      "Componentes",
+      "JSX",
+      "Hooks"
+    ]
+  },
+  {
+    "termo": "API #127",
+    "descricao": "Interface de programação de aplicações. Permite que diferentes sistemas se comuniquem.",
+    "exemplo": "fetch('https://api.exemplo.com/dados')",
+    "componentes": [
+      "Requisições",
+      "Endpoints",
+      "JSON"
+    ]
+  },
+  {
+    "termo": "Node.js #128",
+    "descricao": "Ambiente de execução JavaScript no servidor, usado para construir aplicações backend.",
+    "exemplo": "const http = require('http');",
+    "componentes": [
+      "Módulos",
+      "Servidor",
+      "Eventos"
+    ]
+  },
+  {
+    "termo": "Banco de Dados #129",
+    "descricao": "Sistema que armazena dados de forma organizada e acessível.",
+    "exemplo": "SELECT * FROM usuarios;",
+    "componentes": [
+      "Tabelas",
+      "SQL",
+      "Consultas"
+    ]
+  },
+  {
+    "termo": "Django #130",
+    "descricao": "Framework web de alto nível para Python. Facilita a criação de aplicações completas.",
+    "exemplo": "from django.http import HttpResponse\ndef home(request):\n    return HttpResponse(\"Olá, Django!\")",
+    "componentes": [
+      "Rotas",
+      "Views",
+      "Models"
+    ]
+  },
+  {
+    "termo": "Python #131",
+    "descricao": "Linguagem de programação de alto nível, fácil de ler e escrever. Muito usada em ciência de dados, automação, backend, inteligência artificial e scripts rápidos.",
+    "exemplo": "def saudacao():\n    print('Olá, mundo!')",
+    "componentes": [
+      "Funções",
+      "Indentação",
+      "Print",
+      "Variáveis"
+    ]
+  },
+  {
+    "termo": "JavaScript #132",
+    "descricao": "Linguagem usada principalmente para tornar páginas web interativas. Muito usada no frontend e também no backend com Node.js.",
+    "exemplo": "function saudacao() {\n  console.log('Olá, mundo!');\n}",
+    "componentes": [
+      "Funções",
+      "Eventos",
+      "DOM"
+    ]
+  },
+  {
+    "termo": "HTML #133",
+    "descricao": "Linguagem de marcação usada para estruturar o conteúdo de páginas web.",
+    "exemplo": "<h1>Olá, mundo!</h1>",
+    "componentes": [
+      "Tags",
+      "Atributos",
+      "Estrutura"
+    ]
+  },
+  {
+    "termo": "CSS #134",
+    "descricao": "Linguagem de estilo usada para definir a aparência das páginas HTML.",
+    "exemplo": "h1 { color: blue; }",
+    "componentes": [
+      "Seletores",
+      "Propriedades",
+      "Responsividade"
+    ]
+  },
+  {
+    "termo": "Git #135",
+    "descricao": "Sistema de controle de versão para gerenciar mudanças no código-fonte.",
+    "exemplo": "git init\n git add .\n git commit -m \"primeiro commit\"",
+    "componentes": [
+      "Commit",
+      "Branch",
+      "Merge"
+    ]
+  },
+  {
+    "termo": "React #136",
+    "descricao": "Biblioteca JavaScript para construção de interfaces de usuário, baseada em componentes.",
+    "exemplo": "function App() {\n  return <h1>Olá React</h1>;\n}",
+    "componentes": [
+      "Componentes",
+      "JSX",
+      "Hooks"
+    ]
+  },
+  {
+    "termo": "API #137",
+    "descricao": "Interface de programação de aplicações. Permite que diferentes sistemas se comuniquem.",
+    "exemplo": "fetch('https://api.exemplo.com/dados')",
+    "componentes": [
+      "Requisições",
+      "Endpoints",
+      "JSON"
+    ]
+  },
+  {
+    "termo": "Node.js #138",
+    "descricao": "Ambiente de execução JavaScript no servidor, usado para construir aplicações backend.",
+    "exemplo": "const http = require('http');",
+    "componentes": [
+      "Módulos",
+      "Servidor",
+      "Eventos"
+    ]
+  },
+  {
+    "termo": "Banco de Dados #139",
+    "descricao": "Sistema que armazena dados de forma organizada e acessível.",
+    "exemplo": "SELECT * FROM usuarios;",
+    "componentes": [
+      "Tabelas",
+      "SQL",
+      "Consultas"
+    ]
+  },
+  {
+    "termo": "Django #140",
+    "descricao": "Framework web de alto nível para Python. Facilita a criação de aplicações completas.",
+    "exemplo": "from django.http import HttpResponse\ndef home(request):\n    return HttpResponse(\"Olá, Django!\")",
+    "componentes": [
+      "Rotas",
+      "Views",
+      "Models"
+    ]
+  },
+  {
+    "termo": "Python #141",
+    "descricao": "Linguagem de programação de alto nível, fácil de ler e escrever. Muito usada em ciência de dados, automação, backend, inteligência artificial e scripts rápidos.",
+    "exemplo": "def saudacao():\n    print('Olá, mundo!')",
+    "componentes": [
+      "Funções",
+      "Indentação",
+      "Print",
+      "Variáveis"
+    ]
+  },
+  {
+    "termo": "JavaScript #142",
+    "descricao": "Linguagem usada principalmente para tornar páginas web interativas. Muito usada no frontend e também no backend com Node.js.",
+    "exemplo": "function saudacao() {\n  console.log('Olá, mundo!');\n}",
+    "componentes": [
+      "Funções",
+      "Eventos",
+      "DOM"
+    ]
+  },
+  {
+    "termo": "HTML #143",
+    "descricao": "Linguagem de marcação usada para estruturar o conteúdo de páginas web.",
+    "exemplo": "<h1>Olá, mundo!</h1>",
+    "componentes": [
+      "Tags",
+      "Atributos",
+      "Estrutura"
+    ]
+  },
+  {
+    "termo": "CSS #144",
+    "descricao": "Linguagem de estilo usada para definir a aparência das páginas HTML.",
+    "exemplo": "h1 { color: blue; }",
+    "componentes": [
+      "Seletores",
+      "Propriedades",
+      "Responsividade"
+    ]
+  },
+  {
+    "termo": "Git #145",
+    "descricao": "Sistema de controle de versão para gerenciar mudanças no código-fonte.",
+    "exemplo": "git init\n git add .\n git commit -m \"primeiro commit\"",
+    "componentes": [
+      "Commit",
+      "Branch",
+      "Merge"
+    ]
+  },
+  {
+    "termo": "React #146",
+    "descricao": "Biblioteca JavaScript para construção de interfaces de usuário, baseada em componentes.",
+    "exemplo": "function App() {\n  return <h1>Olá React</h1>;\n}",
+    "componentes": [
+      "Componentes",
+      "JSX",
+      "Hooks"
+    ]
+  },
+  {
+    "termo": "API #147",
+    "descricao": "Interface de programação de aplicações. Permite que diferentes sistemas se comuniquem.",
+    "exemplo": "fetch('https://api.exemplo.com/dados')",
+    "componentes": [
+      "Requisições",
+      "Endpoints",
+      "JSON"
+    ]
+  },
+  {
+    "termo": "Node.js #148",
+    "descricao": "Ambiente de execução JavaScript no servidor, usado para construir aplicações backend.",
+    "exemplo": "const http = require('http');",
+    "componentes": [
+      "Módulos",
+      "Servidor",
+      "Eventos"
+    ]
+  },
+  {
+    "termo": "Banco de Dados #149",
+    "descricao": "Sistema que armazena dados de forma organizada e acessível.",
+    "exemplo": "SELECT * FROM usuarios;",
+    "componentes": [
+      "Tabelas",
+      "SQL",
+      "Consultas"
+    ]
+  },
+  {
+    "termo": "Django #150",
+    "descricao": "Framework web de alto nível para Python. Facilita a criação de aplicações completas.",
+    "exemplo": "from django.http import HttpResponse\ndef home(request):\n    return HttpResponse(\"Olá, Django!\")",
+    "componentes": [
+      "Rotas",
+      "Views",
+      "Models"
+    ]
+  },
+  {
+    "termo": "Python #151",
+    "descricao": "Linguagem de programação de alto nível, fácil de ler e escrever. Muito usada em ciência de dados, automação, backend, inteligência artificial e scripts rápidos.",
+    "exemplo": "def saudacao():\n    print('Olá, mundo!')",
+    "componentes": [
+      "Funções",
+      "Indentação",
+      "Print",
+      "Variáveis"
+    ]
+  },
+  {
+    "termo": "JavaScript #152",
+    "descricao": "Linguagem usada principalmente para tornar páginas web interativas. Muito usada no frontend e também no backend com Node.js.",
+    "exemplo": "function saudacao() {\n  console.log('Olá, mundo!');\n}",
+    "componentes": [
+      "Funções",
+      "Eventos",
+      "DOM"
+    ]
+  },
+  {
+    "termo": "HTML #153",
+    "descricao": "Linguagem de marcação usada para estruturar o conteúdo de páginas web.",
+    "exemplo": "<h1>Olá, mundo!</h1>",
+    "componentes": [
+      "Tags",
+      "Atributos",
+      "Estrutura"
+    ]
+  },
+  {
+    "termo": "CSS #154",
+    "descricao": "Linguagem de estilo usada para definir a aparência das páginas HTML.",
+    "exemplo": "h1 { color: blue; }",
+    "componentes": [
+      "Seletores",
+      "Propriedades",
+      "Responsividade"
+    ]
+  },
+  {
+    "termo": "Git #155",
+    "descricao": "Sistema de controle de versão para gerenciar mudanças no código-fonte.",
+    "exemplo": "git init\n git add .\n git commit -m \"primeiro commit\"",
+    "componentes": [
+      "Commit",
+      "Branch",
+      "Merge"
+    ]
+  },
+  {
+    "termo": "React #156",
+    "descricao": "Biblioteca JavaScript para construção de interfaces de usuário, baseada em componentes.",
+    "exemplo": "function App() {\n  return <h1>Olá React</h1>;\n}",
+    "componentes": [
+      "Componentes",
+      "JSX",
+      "Hooks"
+    ]
+  },
+  {
+    "termo": "API #157",
+    "descricao": "Interface de programação de aplicações. Permite que diferentes sistemas se comuniquem.",
+    "exemplo": "fetch('https://api.exemplo.com/dados')",
+    "componentes": [
+      "Requisições",
+      "Endpoints",
+      "JSON"
+    ]
+  },
+  {
+    "termo": "Node.js #158",
+    "descricao": "Ambiente de execução JavaScript no servidor, usado para construir aplicações backend.",
+    "exemplo": "const http = require('http');",
+    "componentes": [
+      "Módulos",
+      "Servidor",
+      "Eventos"
+    ]
+  },
+  {
+    "termo": "Banco de Dados #159",
+    "descricao": "Sistema que armazena dados de forma organizada e acessível.",
+    "exemplo": "SELECT * FROM usuarios;",
+    "componentes": [
+      "Tabelas",
+      "SQL",
+      "Consultas"
+    ]
+  },
+  {
+    "termo": "Django #160",
+    "descricao": "Framework web de alto nível para Python. Facilita a criação de aplicações completas.",
+    "exemplo": "from django.http import HttpResponse\ndef home(request):\n    return HttpResponse(\"Olá, Django!\")",
+    "componentes": [
+      "Rotas",
+      "Views",
+      "Models"
+    ]
+  },
+  {
+    "termo": "Python #161",
+    "descricao": "Linguagem de programação de alto nível, fácil de ler e escrever. Muito usada em ciência de dados, automação, backend, inteligência artificial e scripts rápidos.",
+    "exemplo": "def saudacao():\n    print('Olá, mundo!')",
+    "componentes": [
+      "Funções",
+      "Indentação",
+      "Print",
+      "Variáveis"
+    ]
+  },
+  {
+    "termo": "JavaScript #162",
+    "descricao": "Linguagem usada principalmente para tornar páginas web interativas. Muito usada no frontend e também no backend com Node.js.",
+    "exemplo": "function saudacao() {\n  console.log('Olá, mundo!');\n}",
+    "componentes": [
+      "Funções",
+      "Eventos",
+      "DOM"
+    ]
+  },
+  {
+    "termo": "HTML #163",
+    "descricao": "Linguagem de marcação usada para estruturar o conteúdo de páginas web.",
+    "exemplo": "<h1>Olá, mundo!</h1>",
+    "componentes": [
+      "Tags",
+      "Atributos",
+      "Estrutura"
+    ]
+  },
+  {
+    "termo": "CSS #164",
+    "descricao": "Linguagem de estilo usada para definir a aparência das páginas HTML.",
+    "exemplo": "h1 { color: blue; }",
+    "componentes": [
+      "Seletores",
+      "Propriedades",
+      "Responsividade"
+    ]
+  },
+  {
+    "termo": "Git #165",
+    "descricao": "Sistema de controle de versão para gerenciar mudanças no código-fonte.",
+    "exemplo": "git init\n git add .\n git commit -m \"primeiro commit\"",
+    "componentes": [
+      "Commit",
+      "Branch",
+      "Merge"
+    ]
+  },
+  {
+    "termo": "React #166",
+    "descricao": "Biblioteca JavaScript para construção de interfaces de usuário, baseada em componentes.",
+    "exemplo": "function App() {\n  return <h1>Olá React</h1>;\n}",
+    "componentes": [
+      "Componentes",
+      "JSX",
+      "Hooks"
+    ]
+  },
+  {
+    "termo": "API #167",
+    "descricao": "Interface de programação de aplicações. Permite que diferentes sistemas se comuniquem.",
+    "exemplo": "fetch('https://api.exemplo.com/dados')",
+    "componentes": [
+      "Requisições",
+      "Endpoints",
+      "JSON"
+    ]
+  },
+  {
+    "termo": "Node.js #168",
+    "descricao": "Ambiente de execução JavaScript no servidor, usado para construir aplicações backend.",
+    "exemplo": "const http = require('http');",
+    "componentes": [
+      "Módulos",
+      "Servidor",
+      "Eventos"
+    ]
+  },
+  {
+    "termo": "Banco de Dados #169",
+    "descricao": "Sistema que armazena dados de forma organizada e acessível.",
+    "exemplo": "SELECT * FROM usuarios;",
+    "componentes": [
+      "Tabelas",
+      "SQL",
+      "Consultas"
+    ]
+  },
+  {
+    "termo": "Django #170",
+    "descricao": "Framework web de alto nível para Python. Facilita a criação de aplicações completas.",
+    "exemplo": "from django.http import HttpResponse\ndef home(request):\n    return HttpResponse(\"Olá, Django!\")",
+    "componentes": [
+      "Rotas",
+      "Views",
+      "Models"
+    ]
+  },
+  {
+    "termo": "Python #171",
+    "descricao": "Linguagem de programação de alto nível, fácil de ler e escrever. Muito usada em ciência de dados, automação, backend, inteligência artificial e scripts rápidos.",
+    "exemplo": "def saudacao():\n    print('Olá, mundo!')",
+    "componentes": [
+      "Funções",
+      "Indentação",
+      "Print",
+      "Variáveis"
+    ]
+  },
+  {
+    "termo": "JavaScript #172",
+    "descricao": "Linguagem usada principalmente para tornar páginas web interativas. Muito usada no frontend e também no backend com Node.js.",
+    "exemplo": "function saudacao() {\n  console.log('Olá, mundo!');\n}",
+    "componentes": [
+      "Funções",
+      "Eventos",
+      "DOM"
+    ]
+  },
+  {
+    "termo": "HTML #173",
+    "descricao": "Linguagem de marcação usada para estruturar o conteúdo de páginas web.",
+    "exemplo": "<h1>Olá, mundo!</h1>",
+    "componentes": [
+      "Tags",
+      "Atributos",
+      "Estrutura"
+    ]
+  },
+  {
+    "termo": "CSS #174",
+    "descricao": "Linguagem de estilo usada para definir a aparência das páginas HTML.",
+    "exemplo": "h1 { color: blue; }",
+    "componentes": [
+      "Seletores",
+      "Propriedades",
+      "Responsividade"
+    ]
+  },
+  {
+    "termo": "Git #175",
+    "descricao": "Sistema de controle de versão para gerenciar mudanças no código-fonte.",
+    "exemplo": "git init\n git add .\n git commit -m \"primeiro commit\"",
+    "componentes": [
+      "Commit",
+      "Branch",
+      "Merge"
+    ]
+  },
+  {
+    "termo": "React #176",
+    "descricao": "Biblioteca JavaScript para construção de interfaces de usuário, baseada em componentes.",
+    "exemplo": "function App() {\n  return <h1>Olá React</h1>;\n}",
+    "componentes": [
+      "Componentes",
+      "JSX",
+      "Hooks"
+    ]
+  },
+  {
+    "termo": "API #177",
+    "descricao": "Interface de programação de aplicações. Permite que diferentes sistemas se comuniquem.",
+    "exemplo": "fetch('https://api.exemplo.com/dados')",
+    "componentes": [
+      "Requisições",
+      "Endpoints",
+      "JSON"
+    ]
+  },
+  {
+    "termo": "Node.js #178",
+    "descricao": "Ambiente de execução JavaScript no servidor, usado para construir aplicações backend.",
+    "exemplo": "const http = require('http');",
+    "componentes": [
+      "Módulos",
+      "Servidor",
+      "Eventos"
+    ]
+  },
+  {
+    "termo": "Banco de Dados #179",
+    "descricao": "Sistema que armazena dados de forma organizada e acessível.",
+    "exemplo": "SELECT * FROM usuarios;",
+    "componentes": [
+      "Tabelas",
+      "SQL",
+      "Consultas"
+    ]
+  },
+  {
+    "termo": "Django #180",
+    "descricao": "Framework web de alto nível para Python. Facilita a criação de aplicações completas.",
+    "exemplo": "from django.http import HttpResponse\ndef home(request):\n    return HttpResponse(\"Olá, Django!\")",
+    "componentes": [
+      "Rotas",
+      "Views",
+      "Models"
+    ]
+  },
+  {
+    "termo": "Python #181",
+    "descricao": "Linguagem de programação de alto nível, fácil de ler e escrever. Muito usada em ciência de dados, automação, backend, inteligência artificial e scripts rápidos.",
+    "exemplo": "def saudacao():\n    print('Olá, mundo!')",
+    "componentes": [
+      "Funções",
+      "Indentação",
+      "Print",
+      "Variáveis"
+    ]
+  },
+  {
+    "termo": "JavaScript #182",
+    "descricao": "Linguagem usada principalmente para tornar páginas web interativas. Muito usada no frontend e também no backend com Node.js.",
+    "exemplo": "function saudacao() {\n  console.log('Olá, mundo!');\n}",
+    "componentes": [
+      "Funções",
+      "Eventos",
+      "DOM"
+    ]
+  },
+  {
+    "termo": "HTML #183",
+    "descricao": "Linguagem de marcação usada para estruturar o conteúdo de páginas web.",
+    "exemplo": "<h1>Olá, mundo!</h1>",
+    "componentes": [
+      "Tags",
+      "Atributos",
+      "Estrutura"
+    ]
+  },
+  {
+    "termo": "CSS #184",
+    "descricao": "Linguagem de estilo usada para definir a aparência das páginas HTML.",
+    "exemplo": "h1 { color: blue; }",
+    "componentes": [
+      "Seletores",
+      "Propriedades",
+      "Responsividade"
+    ]
+  },
+  {
+    "termo": "Git #185",
+    "descricao": "Sistema de controle de versão para gerenciar mudanças no código-fonte.",
+    "exemplo": "git init\n git add .\n git commit -m \"primeiro commit\"",
+    "componentes": [
+      "Commit",
+      "Branch",
+      "Merge"
+    ]
+  },
+  {
+    "termo": "React #186",
+    "descricao": "Biblioteca JavaScript para construção de interfaces de usuário, baseada em componentes.",
+    "exemplo": "function App() {\n  return <h1>Olá React</h1>;\n}",
+    "componentes": [
+      "Componentes",
+      "JSX",
+      "Hooks"
+    ]
+  },
+  {
+    "termo": "API #187",
+    "descricao": "Interface de programação de aplicações. Permite que diferentes sistemas se comuniquem.",
+    "exemplo": "fetch('https://api.exemplo.com/dados')",
+    "componentes": [
+      "Requisições",
+      "Endpoints",
+      "JSON"
+    ]
+  },
+  {
+    "termo": "Node.js #188",
+    "descricao": "Ambiente de execução JavaScript no servidor, usado para construir aplicações backend.",
+    "exemplo": "const http = require('http');",
+    "componentes": [
+      "Módulos",
+      "Servidor",
+      "Eventos"
+    ]
+  },
+  {
+    "termo": "Banco de Dados #189",
+    "descricao": "Sistema que armazena dados de forma organizada e acessível.",
+    "exemplo": "SELECT * FROM usuarios;",
+    "componentes": [
+      "Tabelas",
+      "SQL",
+      "Consultas"
+    ]
+  },
+  {
+    "termo": "Django #190",
+    "descricao": "Framework web de alto nível para Python. Facilita a criação de aplicações completas.",
+    "exemplo": "from django.http import HttpResponse\ndef home(request):\n    return HttpResponse(\"Olá, Django!\")",
+    "componentes": [
+      "Rotas",
+      "Views",
+      "Models"
+    ]
+  },
+  {
+    "termo": "Python #191",
+    "descricao": "Linguagem de programação de alto nível, fácil de ler e escrever. Muito usada em ciência de dados, automação, backend, inteligência artificial e scripts rápidos.",
+    "exemplo": "def saudacao():\n    print('Olá, mundo!')",
+    "componentes": [
+      "Funções",
+      "Indentação",
+      "Print",
+      "Variáveis"
+    ]
+  },
+  {
+    "termo": "JavaScript #192",
+    "descricao": "Linguagem usada principalmente para tornar páginas web interativas. Muito usada no frontend e também no backend com Node.js.",
+    "exemplo": "function saudacao() {\n  console.log('Olá, mundo!');\n}",
+    "componentes": [
+      "Funções",
+      "Eventos",
+      "DOM"
+    ]
+  },
+  {
+    "termo": "HTML #193",
+    "descricao": "Linguagem de marcação usada para estruturar o conteúdo de páginas web.",
+    "exemplo": "<h1>Olá, mundo!</h1>",
+    "componentes": [
+      "Tags",
+      "Atributos",
+      "Estrutura"
+    ]
+  },
+  {
+    "termo": "CSS #194",
+    "descricao": "Linguagem de estilo usada para definir a aparência das páginas HTML.",
+    "exemplo": "h1 { color: blue; }",
+    "componentes": [
+      "Seletores",
+      "Propriedades",
+      "Responsividade"
+    ]
+  },
+  {
+    "termo": "Git #195",
+    "descricao": "Sistema de controle de versão para gerenciar mudanças no código-fonte.",
+    "exemplo": "git init\n git add .\n git commit -m \"primeiro commit\"",
+    "componentes": [
+      "Commit",
+      "Branch",
+      "Merge"
+    ]
+  },
+  {
+    "termo": "React #196",
+    "descricao": "Biblioteca JavaScript para construção de interfaces de usuário, baseada em componentes.",
+    "exemplo": "function App() {\n  return <h1>Olá React</h1>;\n}",
+    "componentes": [
+      "Componentes",
+      "JSX",
+      "Hooks"
+    ]
+  },
+  {
+    "termo": "API #197",
+    "descricao": "Interface de programação de aplicações. Permite que diferentes sistemas se comuniquem.",
+    "exemplo": "fetch('https://api.exemplo.com/dados')",
+    "componentes": [
+      "Requisições",
+      "Endpoints",
+      "JSON"
+    ]
+  },
+  {
+    "termo": "Node.js #198",
+    "descricao": "Ambiente de execução JavaScript no servidor, usado para construir aplicações backend.",
+    "exemplo": "const http = require('http');",
+    "componentes": [
+      "Módulos",
+      "Servidor",
+      "Eventos"
+    ]
+  },
+  {
+    "termo": "Banco de Dados #199",
+    "descricao": "Sistema que armazena dados de forma organizada e acessível.",
+    "exemplo": "SELECT * FROM usuarios;",
+    "componentes": [
+      "Tabelas",
+      "SQL",
+      "Consultas"
+    ]
+  },
+  {
+    "termo": "Django #200",
+    "descricao": "Framework web de alto nível para Python. Facilita a criação de aplicações completas.",
+    "exemplo": "from django.http import HttpResponse\ndef home(request):\n    return HttpResponse(\"Olá, Django!\")",
+    "componentes": [
+      "Rotas",
+      "Views",
+      "Models"
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Tradutor Tech Simplificado</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main>
+    <h1>🛠️ Tradutor Tech Simplificado</h1>
+
+    <label for="texto"><strong>Insira o trecho técnico (em inglês):</strong></label>
+    <textarea id="texto" placeholder="Cole aqui a documentação técnica..." rows="8"></textarea>
+
+    <button onclick="traduzir()">Traduzir e Simplificar</button>
+
+    <section class="resultado">
+      <h2>🔁 Tradução:</h2>
+      <p id="traduzido">—</p>
+
+      <h2>✅ Versão Simplificada:</h2>
+      <p id="simplificado">—</p>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
